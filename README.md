@@ -1,7 +1,6 @@
+[![MasterHead](https://i.ibb.co/9wTSbdn/github-header-image-1.png)](https://rishavchanda.io)
 <h1 align="center">Hello World I am Ajay Maurya</h1>
 <h3 align="center">Passionate about building innovative and user-friendly web applications.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaymaurya1008" alt="ajaymaurya1008" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ajaymaurya_1008" target="blank"><img src="https://img.shields.io/twitter/follow/ajaymaurya_1008?logo=twitter&style=for-the-badge" alt="ajaymaurya_1008" /></a> </p>
 
@@ -11,7 +10,7 @@
 
 - 📫 How to reach me **ajaykvmaurya@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Ajaymaurya1008/resume/blob/main/Ajay_Maurya_Resume4.pdf](https://github.com/Ajaymaurya1008/resume/blob/main/Ajay_Maurya_Resume4.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/Ajaymaurya1008/resume/blob/main/Ajay_Maurya_Resume4.pd)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
