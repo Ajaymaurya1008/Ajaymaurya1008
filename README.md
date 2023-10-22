@@ -13,15 +13,21 @@
 - 📄 Know about my experiences [Resume](https://github.com/Ajaymaurya1008/resume/blob/main/Ajay_Maurya_Resume4.pd)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ajaymaurya_1008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajaymaurya_1008" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ajay maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay maurya" height="30" width="40" /></a>
-<a href="https://instagram.com/ajay_maurya_1008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajay_maurya_1008" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ajay maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ajay maurya" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ajaymaurya1008" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ajaymaurya1008" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ajaymaurya1008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ajaymaurya1008" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ajaymaurya1008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajaymaurya1008" height="30" width="40" /></a>
-</p>
+<a href="https://twitter.com/Ajaymaurya_1008" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/Ajaymaurya1008" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/ajay-maurya-6aa9b5223" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/Ajay_maurya_1008" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/user/@ajaymaurya609?si=Dn1uuRAF0ckY54sL" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
 
 ## Languages and Tools  
 <div align="center">  
