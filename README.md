@@ -96,8 +96,8 @@
 </td></tr></table>  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ajaymaurya1008&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ajaymaurya1008&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Ajaymaurya1008&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ajaymaurya1008&theme=nightowl&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaymaurya1008&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
