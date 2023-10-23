@@ -101,10 +101,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ajaymaurya1008&theme=nightowl&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaymaurya1008&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+<br/>
+
+<img src="https://svgshare.com/i/ymb.svg" alt="snake animation" >
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ajaymaurya1008&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
