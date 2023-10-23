@@ -1,6 +1,7 @@
 [![MasterHead](https://i.ibb.co/9wTSbdn/github-header-image-1.png)](https://rishavchanda.io)
 <h1 align="center">Hello World I am Ajay Maurya</h1>
 <h3 align="center">Passionate about building innovative and user-friendly web applications.</h3>
+<img align="right" alt="Coding" width="400" src="https://trynetsolutions.com/TS/b1.3.gif">
 
 <p align="left"> <a href="https://twitter.com/ajaymaurya_1008" target="blank"><img src="https://img.shields.io/twitter/follow/ajaymaurya_1008?logo=twitter&style=for-the-badge" alt="ajaymaurya_1008" /></a> </p>
 
