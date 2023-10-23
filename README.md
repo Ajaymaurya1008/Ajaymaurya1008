@@ -95,11 +95,15 @@
 
 </td></tr></table>  
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ajaymaurya1008&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ajaymaurya1008&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaymaurya1008&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<br/> 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaymaurya1008&show_icons=true&locale=en&layout=compact" alt="ajaymaurya1008" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=Ajaymaurya1008&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaymaurya1008&show_icons=true&locale=en" alt="ajaymaurya1008" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaymaurya1008&" alt="ajaymaurya1008" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
