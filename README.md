@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ajaykvmaurya@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15DAjIlfZcLMzSaYqWx13xzhyirRdcnIP/view?usp=sharing)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/15DAjIlfZcLMzSaYqWx13xzhyirRdcnIP/view?usp=sharing](https://drive.google.com/file/d/1-vcin8h6c9wyrnecadIKWkDaT1lI_y47/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/Ajaymaurya_1008" target="_blank">
