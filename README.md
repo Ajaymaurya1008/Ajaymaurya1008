@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NEXT**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://ajaymaurya.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://ajay-maurya.tech/)
 
 - 📫 How to reach me **ajaykvmaurya@gmail.com**
 
