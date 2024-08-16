@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/ajaymaurya_1008" target="blank"><img src="https://img.shields.io/twitter/follow/ajaymaurya_1008?logo=twitter&style=for-the-badge" alt="ajaymaurya_1008" /></a> </p>
 
-- 🌱 I’m currently learning **NEXT**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://ajay-maurya.tech/)
 
 - 📫 How to reach me **ajaykvmaurya@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12yHcO2Dp6gDJtMqi9H0D85_BBI1y9H9A/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/12yHcO2Dp6gDJtMqi9H0D85_BBI1y9H9A/view?usp=sharing" target="_blank"> [Resume]</a>
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/Ajaymaurya1008" target="_blank">
