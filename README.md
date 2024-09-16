@@ -1,4 +1,4 @@
-![MasterHead](https://res.cloudinary.com/dfh7pmyj0/image/upload/v1726511298/Dark_Blue_Holographic_Twitter_Header_gwesfb.png)
+![MasterHead](https://i.ibb.co/Rgy496t/Dark-Blue-Holographic-Twitter-Header.png)
 <h1 align="center">Hello World I am Ajay Maurya</h1>
 <h3 align="center">Passionate about building innovative and user-friendly web applications.</h3>
 <img align="right" alt="Coding" width="400" src="https://trynetsolutions.com/TS/b1.3.gif">
