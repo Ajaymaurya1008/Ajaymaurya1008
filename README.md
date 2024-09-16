@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ajaymaurya_1008" target="blank"><img src="https://img.shields.io/twitter/follow/ajaymaurya_1008?logo=twitter&style=for-the-badge" alt="ajaymaurya_1008" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Expo and React Native**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://ajay-maurya.tech/)
 
