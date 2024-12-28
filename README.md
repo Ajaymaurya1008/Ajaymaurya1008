@@ -1,13 +1,13 @@
 ![MasterHead](https://res.cloudinary.com/dfh7pmyj0/image/upload/v1726511298/Dark_Blue_Holographic_Twitter_Header_gwesfb.png)
 <h1 align="center">Hello World I am Ajay Maurya</h1>
-<h3 align="center">Passionate about building innovative and user-friendly web applications.</h3>
+<h3 align="center">Passionate about building innovative and user-friendly web and mobile applications.</h3>
 <img align="right" alt="Coding" width="400" src="https://trynetsolutions.com/TS/b1.3.gif">
 
 <p align="left"> <a href="https://twitter.com/ajaymaurya_1008" target="blank"><img src="https://img.shields.io/twitter/follow/ajaymaurya_1008?logo=twitter&style=for-the-badge" alt="ajaymaurya_1008" /></a> </p>
 
-- 🌱 I’m currently learning **Expo and React Native**
+- 🌱 I’m currently learning **Kotlin**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://ajay-maurya.tech/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://ajaymaurya.com)
 
 - 📫 How to reach me **ajaykvmaurya@gmail.com**
 
