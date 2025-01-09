@@ -99,8 +99,6 @@
 
 <br/>
 
-<img src="https://svgshare.com/i/ymb.svg" alt="snake animation" >
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
