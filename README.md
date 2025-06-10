@@ -3,7 +3,7 @@
 <h3 align="center">Passionate about building innovative and user-friendly web and mobile applications.</h3>
 <img align="right" alt="Coding" width="400" src="https://trynetsolutions.com/TS/b1.3.gif">
 
-<p align="left"> <a href="https://twitter.com/ajaymaurya_1008" target="blank"><img src="https://img.shields.io/twitter/follow/ajaymaurya_1008?logo=twitter&style=for-the-badge" alt="ajaymaurya_1008" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Ajaymaurya1008" target="blank"><img src="https://img.shields.io/twitter/follow/Ajaymaurya1008?logo=twitter&style=for-the-badge" alt="Ajaymaurya1008" /></a> </p>
 
 - 🌱 I’m currently learning **Kotlin**
 
@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/ajay-maurya-6aa9b5223" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/Ajay_maurya_1008" target="_blank">
+<a href="https://instagram.com/Ajaymaurya1008" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/user/@ajaymaurya609?si=Dn1uuRAF0ckY54sL" target="_blank">
